@@ -1,0 +1,43 @@
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li{
+    border-bottom: 1px solid #eee;
+    overflow: hidden;
+    padding-top: 10px;
+}
+
+.avatar-group{
+    width: 38px;
+    height: 100%;
+    float: left;
+}
+
+.avatar-group .avatar{
+    width: 38px;
+    height: 38px;
+}
+
+.question-group{
+    float: left;
+    width: 660px;
+    margin-left: 10px;
+}
+
+.question-title a{
+    color: #9C1A1C;
+    font-weight: 900;
+}
+.question-content{
+    color: #11557C;
+}
+
+.question-info{
+    text-align: right;
+}
+
+.question-info .question-author{
+    margin-right: 20px;
+}
